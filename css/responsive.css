@@ -1,0 +1,130 @@
+/* 2340x1080 pixels at 476ppi */ 
+@media only screen
+and (max-width: 780px) and (min-width: 200px) { 
+    .font-size60{
+        font-size: 35px !important;
+    }
+    .font-size18{
+        font-size: 15px !important;
+    }
+    .section{
+        padding: 50px 0px;
+    }
+    img{
+        max-width: 100%;
+    }
+    .input-sub {
+        Width: 455px !important;
+        margin-bottom: 15px;
+    }
+    .carousel-control-prev{
+        margin-left: 50% !important;
+        margin-bottom: 100% !important;
+      }
+      .carousel-control-next-icon{
+        margin-left: 100% !important;
+        margin-bottom: 100% !important;
+      }
+      .carousel-item{
+        width: 80%;
+      }
+      .carousel-control-next-icon {
+        background-image: none !important;
+    }
+      
+}
+@media only screen
+and (max-width: 820px) {
+    .carousel-control-next {
+        margin-bottom: 107% !important;
+    }
+    .carousel-control-prev {
+        margin-left: 72% !important;
+        margin-bottom: 107% !important;
+    }
+    .font-size40{
+        font-size: 45px !important;
+    }
+    .ms-5 {
+        margin-left: -21rem!important;
+    }
+    .carousel-control-next{
+        background: url(/img/arrow-right.png) no-repeat;
+    }
+}
+@media only screen
+and (max-width: 768px){
+    .carousel-control-next{
+        background: url(/img/arrow-right.png) no-repeat;
+    }
+    .font-size40{
+        font-size: 45px !important;
+    }
+}
+@media only screen
+and (max-width: 912px){
+    .font-size16{
+        font-size: 20px !important;
+    }
+    .ms-5 {
+        margin-left: -21rem!important;
+    }
+
+}
+@media only screen
+and (max-width: 540px){
+    .rs{
+        max-width: 82%;
+        margin-left: 304px !important;
+    }
+}
+@media only screen
+and (max-width: 280px){
+    .rs{
+        max-width: 60%;
+        margin-left: 315px !important;
+    }
+    .carousel-control-prev {
+        margin-left: 50% !important;
+        margin-bottom: 276% !important;
+    }
+    .carousel-control-next {
+        right: 33px !important;
+    }
+    .font-size40{
+        font-size: 30px !important;
+    }
+    .font-size16{
+        font-size: 12px !important;
+    }
+    .input-sub 
+         {
+            width: 100% !important;
+        
+        }
+        .btn-sub {
+            padding: 10px !important;
+            font-size: 8px !important;
+            width: 50px !important;
+            height: auto !important;
+        }
+        
+}
+@media only screen
+and (max-width: 1024px){
+    .btn-styelrs {
+        padding: 10px !important;
+    }
+    .rs{
+        max-width: 159%;
+    margin-left: -69px !important;
+    }
+}
+@media only screen
+and (max-width: 1280px){
+    
+    .rs{
+        max-width: 159%;
+    margin-left: -98px !important;
+    }
+}
